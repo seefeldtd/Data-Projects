@@ -1,2 +1,2 @@
 # Data-Projects
-List of Data projects
+List of Data exapmple projects as a portfolio

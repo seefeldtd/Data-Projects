@@ -1,4 +1,4 @@
 # Data-Projects
-List of Data exapmple projects as a portfolio \n
-Data Cleansing \n
+List of Data exapmple projects as a portfolio:
+Data Cleansing,
 EDA
